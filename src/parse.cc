@@ -1,3 +1,8 @@
+/* 
+  Jake Scott (c) 2013
+  MIT Licensed
+*/
+  
 #include <v8.h>
 #include <node.h>
 #include <sys/types.h>
